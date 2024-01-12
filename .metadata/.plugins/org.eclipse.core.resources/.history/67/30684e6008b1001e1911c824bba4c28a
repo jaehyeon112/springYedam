@@ -1,0 +1,7 @@
+package com.yedam.app.spring;
+
+public class Speaker {
+	public void on() {
+		System.out.println("스피커를 실행했습니다.");
+	}
+}

@@ -1,0 +1,12 @@
+package com.yedam.app.spring;
+
+public class SamsungTV implements TV{
+	
+	Speaker speaker;
+@Override
+public void on() {
+	// TODO Auto-generated method stub
+	System.out.println("삼성 TV를 켰습니다.");
+}
+	
+}
